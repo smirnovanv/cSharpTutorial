@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WjI5eh8VbkxsoECL+bTVGMCZlsWklYmDdkHBbnesWZQ1iXPav9h1biKymrtops+PoBLTsEcbrYIWHVY6xGtDYw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\c-sharp-tutorial\\c-sharp-tutorial\\c-sharp-tutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natalya.Smirnova\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
